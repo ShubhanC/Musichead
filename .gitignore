@@ -1,0 +1,7 @@
+.env
+audio_data/
+separated/
+
+# pixi environments
+.pixi/*
+!.pixi/config.toml
